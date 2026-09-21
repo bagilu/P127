@@ -1,0 +1,5 @@
+/* Copy to config.js. Use only a publishable key or legacy anon key. NEVER use service_role / secret keys. */
+window.P127_CONFIG = {
+  SUPABASE_URL: 'https://mfljkyvdadxlrbxlboce.supabase.co',
+  SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1mbGpreXZkYWR4bHJieGxib2NlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQ4MTQwMDUsImV4cCI6MjA4MDM5MDAwNX0.Z4OeacVpO8yM1d1uOWZ6jU2Gl7wgEbhXvAFSqF5pBRs'
+};
